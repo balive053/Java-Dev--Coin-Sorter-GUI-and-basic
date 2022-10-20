@@ -1,2 +1,3 @@
-# Java-Dev--Coin-Sorter-GUI-and-basic
-A coin sorter app which can be run with a GUI or through base Java. Allows options to set currency, coin circulation, change units etc. 
+# Java-Dev--Coin-Sorter GUI and command line app
+A coin sorter app which can be run with a GUI or through base Java via command line. 
+Allows options to set currency, coin circulation, change units etc. 
